@@ -1,4 +1,8 @@
 package CoreJava;
+/*
+Program: Create a program to find largest of two numbers.
+@author: Anushka kaushik
+*/
 //program to find largest of 2 numbers
 import java.util.Scanner;
 class LargestOfTwo {
