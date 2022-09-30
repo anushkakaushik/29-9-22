@@ -1,4 +1,8 @@
 package CoreJava;
+/*
+Program:find the current version of java
+@author: Anushka kaushik
+*/
 
 public class Version {
 
