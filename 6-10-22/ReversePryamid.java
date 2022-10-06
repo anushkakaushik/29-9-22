@@ -1,3 +1,4 @@
+//wap to create reverse pyramid
 package CoreJava;
 import java.util.Scanner;
 
